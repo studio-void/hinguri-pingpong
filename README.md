@@ -1,4 +1,2 @@
 # hinguri-pingpong
-> 로봇의 구조와 알고리즘은 중요하지 않다. 중요한 건 **탁구 연습**이다.  
-> "탁구 연습으로 짱먹기". 그것이 우리의 모토이다.  
-> \- 류현승 \-
+<img width="839" height="454" alt="image" src="https://github.com/user-attachments/assets/68bb65f7-07e5-491e-97ab-c11e357a4c4c" />
